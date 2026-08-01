@@ -1,0 +1,1 @@
+"""Hospitality revenue intelligence API."""
